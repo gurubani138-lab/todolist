@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4d58d"/>
+      <stop offset="0.5" stop-color="#c9a227"/>
+      <stop offset="1" stop-color="#8b6914"/>
+    </linearGradient>
+    <linearGradient id="page" x1="6" y1="10" x2="26" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff8ee"/>
+      <stop offset="0.45" stop-color="#f5e6d3"/>
+      <stop offset="1" stop-color="#e0c9a8"/>
+    </linearGradient>
+  </defs>
+  <rect x="7.5" y="4" width="3.2" height="8.5" rx="1.2" fill="url(#ring)"/>
+  <rect x="21.3" y="4" width="3.2" height="8.5" rx="1.2" fill="url(#ring)"/>
+  <rect x="4.5" y="10.5" width="23" height="19" rx="3" fill="url(#page)" stroke="#6b4423" stroke-width="0.75"/>
+  <rect x="6" y="13" width="20" height="2.2" rx="0.8" fill="#c62f27" opacity="0.9"/>
+  <rect x="7" y="17" width="4" height="3" rx="0.6" fill="#a67c52" opacity="0.45"/>
+  <rect x="14" y="17" width="4" height="3" rx="0.6" fill="#a67c52" opacity="0.45"/>
+  <rect x="21" y="17" width="4" height="3" rx="0.6" fill="#a67c52" opacity="0.45"/>
+  <rect x="7" y="22" width="4" height="3" rx="0.6" fill="#a67c52" opacity="0.45"/>
+  <rect x="14" y="22" width="4" height="3" rx="0.6" fill="#c62f27"/>
+  <rect x="21" y="22" width="4" height="3" rx="0.6" fill="#a67c52" opacity="0.45"/>
+  <ellipse cx="16" cy="8.5" rx="1.2" ry="0.9" fill="#5c3d1e" opacity="0.35"/>
+</svg>
